@@ -1,0 +1,34 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #ffffff url('https://img.freepik.com/free-photo/photorealistic-galaxy-background_23-2151064325.jpg?t=st=1720184177~exp=1720187777~hmac=aef7ff94666dc2f2e6cae7c97adb7d29a63cf7768c611427f404434da9ae13ef&w=740') center center/cover no-repeat fixed;
+    z-index: 1;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif;
+    color: #dfd9ba;
+}
+.card-title {
+    color: black !important
+}
+.card p {
+    color: black !important;
+}
+.navbar {
+    margin-bottom: 20px;
+    background: #ffffff url('https://img.freepik.com/free-photo/photorealistic-galaxy-background_23-2151064325.jpg?t=st=1720184177~exp=1720187777~hmac=aef7ff94666dc2f2e6cae7c97adb7d29a63cf7768c611427f404434da9ae13ef&w=740') center center/cover no-repeat fixed !important;
+    z-index: 1;
+}
+.navbar a{
+    color: #dfd9ba !important;
+}
+.section {
+    padding: 60px 0;
+    background: #ffffff url('https://img.freepik.com/free-photo/photorealistic-galaxy-background_23-2151064325.jpg?t=st=1720184177~exp=1720187777~hmac=aef7ff94666dc2f2e6cae7c97adb7d29a63cf7768c611427f404434da9ae13ef&w=740') center center/cover no-repeat fixed !important;
+    z-index: 1;
+}
+.section ul a {
+    color: whitesmoke;
+}
+.section p {
+    color: whitesmoke;
+}
